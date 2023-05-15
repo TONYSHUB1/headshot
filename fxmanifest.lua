@@ -6,7 +6,7 @@ description 'Headshot Control'
 
 client_scripts {
     'config.lua',
-    'client.lua'
+    'main.lua'
 }
 
 
