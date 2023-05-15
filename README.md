@@ -1,2 +1,2 @@
 # headshot control
-a standalone for ESX/QB headshot control script
+A standalone for ESX/QB headshot control script
